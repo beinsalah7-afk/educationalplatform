@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GUERRAOUI ABDERRAZEK - Plateforme Éducative Avancée</title>
-    <style>
-        /* Variables CSS */
-        :root {
-            --primary-color: #2a2a72;
-            --secondary-color: #009ffd;
-            --accent-color: #00d4ff;
-            --success-color: #00cc88;
-            --warning-color: #ffaa00;
-            --danger-color: #ff4757;
-            --dark-color: #121212;
-            --darker-color: #0a0a0a;
-            --light-color: #f8f9fa;
-            --gray-color: #6c757d;
-            --border-radius: 12px;
-            --box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
-            --transition: all 0.3s ease;
         }
 
         /* Reset et styles de base */
